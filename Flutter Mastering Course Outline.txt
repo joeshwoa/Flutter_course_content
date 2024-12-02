@@ -1,0 +1,114 @@
+Course Outline
+
+Section 1: Introduction to Programming Basics
+Variables, Data Types, Operators, and Expressions
+Control Flow (Conditionals, Loops)
+Functions and Basic Error Handling
+
+Session 2: Introduction to Data Structures using dart
+Lists, Sets, and Maps
+Basic Operations on Data Structures and Examples
+
+Session 3: Introduction to Algorithms
+Sorting and Searching Algorithms
+Complexity Analysis Basics
+
+Session 4: Object-Oriented Programming (OOP) Basics
+Classes, Objects, Encapsulation, and Inheritance
+OOP Advanced Concepts
+Polymorphism, Abstraction, and Interfaces
+Practical Exercises in OOP
+
+Session 5: Object-Oriented Design (OOD) & SOLID Principles
+Overview of SOLID Principles
+Applying Basic Design Patterns (Singleton, Factory, etc.)
+
+Session 6: Introduction to Native Mobile Development
+Overview of Android (Kotlin) and iOS (Swift)
+Introduction to Cross-Platform Development
+Flutter, React Native Overview
+Benefits and Use Cases for Cross-Platform Development
+
+Session 7: All Dart Syntax Basics
+Syntax, Variables, Functions
+Collections and Control Flow
+
+Session 8: Dart Advanced Features
+Asynchronous Programming (Future, async/await)
+Exception Handling and Error Management
+
+Session 9: Getting Started with Flutter
+Setting up the Environment, Project Structure
+Widget Tree, Stateless vs Stateful Widgets
+
+Session 10: Pubspec and permissions
+Packages Integration, assets Integration, fonts Integration, custom icons Integration, androidmanifest.
+
+Session 11: Core Flutter Widgets
+Text, Image, ListView, Column, Row
+Container, Stack, Scaffold
+
+Session 12: Commonly Used Widgets
+Buttons, Forms, Input Fields, Dropdowns
+Interactive Widgets (GestureDetector, InkWell)
+
+Session 13: String Input Handlling
+Regex
+
+Session 14: responsive and adaptive
+LayoutBuilder, MediaQuery, AspectRatio, FlutterScreenUtil, Responsive Sizer, etc.
+
+Session 15: Navigation and Routing
+Navigator 1.0 and Navigator 2.0
+Push, Pop, Named Routes
+
+Session 16: Database Basics
+SQL Basics, CRUD Operations
+Introduction to NoSQL Databases
+
+Session 17: Local Storage Solutions
+Shared Preferences, Hive Database, SQLite Database
+
+Session 18: Networking Basics
+TCO, UDP, IPs, Network Routing, Buckets, Basic Networking Concepts, HTTP, REST APIs, JSON Parsing
+
+Session 19: Advanced Flutter Widgets
+Custom Widgets, Animation Widgets, Animations (AnimatedContainer, Hero, Custom Animations)
+Provider, InheritedWidget, and ScopedModel
+
+Session 20: Flutter State Management
+SetState, Provider, Riverpod Basics
+
+Session 21: Flutter State Management
+Bloc, Cubit, Getx
+
+Session 22: APIs and JSON Handling
+HTTP, DIO, JSON Parsing, Multipart Form,  Error Handling
+
+Session 23: Popular Packages Integration
+url_launcher, adaptive_theme, pdf, flutter_animate, flutter_dotenv, easy_localization, go_router, cached_network_image, image_picker,
+meta_seo, url_strategy, other UI Popular Packages
+
+Session 24: Firebase Integration
+Authentication, Firestore Database
+
+Session 25: Firebase Integration
+Realtime Database, Push Notifications
+
+Session 26: Supabase and Other Integrations
+Authentication and Database Integration with Supabase
+
+Session 27: Supabase and Other Integrations
+Realtime Data and Storage, Edge Functions Integration with Supabase
+
+Session 28: Isolation and improve the performance 
+Isolation, const, memory management, change app icon and name, native splash screen
+
+Session 29: Testing
+Unit test, Widget tests, Integration tests
+
+Session 30: Software Development Cycle
+ALL Pre-Coding Stages (analysis, planning, UMLs, Prototyping and Wireframing, Documentations, etc.)
+
+Section 31-40: Production of 3 applications (mobile, web and desktop) by the students themselves
+Dealing with students as a client from the beginning of each student’s project until the project is completed, delivered, and tested.
