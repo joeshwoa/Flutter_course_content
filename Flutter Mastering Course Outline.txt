@@ -53,7 +53,7 @@ Buttons, Forms, Input Fields, Dropdowns
 Interactive Widgets (GestureDetector, InkWell)
 
 Session 13: String Input Handlling
-Regex
+Regex.
 
 Session 14: responsive and adaptive
 LayoutBuilder, MediaQuery, AspectRatio, FlutterScreenUtil, Responsive Sizer, etc.
