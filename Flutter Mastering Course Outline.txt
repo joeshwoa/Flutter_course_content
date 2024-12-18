@@ -42,7 +42,7 @@ Setting up the Environment, Project Structure
 Widget Tree, Stateless vs Stateful Widgets
 
 Session 10: Pubspec and permissions
-Packages Integration, assets Integration, fonts Integration, custom icons Integration, androidmanifest.
+Packages Integration, assets Integration, fonts Integration, custom icons Integration, androidmanifest
 
 Session 11: Core Flutter Widgets
 Text, Image, ListView, Column, Row
@@ -53,7 +53,7 @@ Buttons, Forms, Input Fields, Dropdowns
 Interactive Widgets (GestureDetector, InkWell)
 
 Session 13: String Input Handlling
-Regex.
+Regex
 
 Session 14: responsive and adaptive
 LayoutBuilder, MediaQuery, AspectRatio, FlutterScreenUtil, Responsive Sizer, etc.
@@ -111,4 +111,4 @@ Session 30: Software Development Cycle
 ALL Pre-Coding Stages (analysis, planning, UMLs, Prototyping and Wireframing, Documentations, etc.)
 
 Section 31-40: Production of 3 applications (mobile, web and desktop) by the students themselves
-Dealing with students as a client from the beginning of each student’s project until the project is completed, delivered, and tested.
+Dealing with students as a client from the beginning of each student’s project until the project is completed, delivered, and tested
